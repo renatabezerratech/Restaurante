@@ -1,0 +1,47 @@
+body{
+    background-color: cadetblue;
+    font-family: Helvetica;
+    color: rgb(4, 61, 62);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    border-bottom: 1px solid #264926;
+}
+nav ul{
+    display: flex;
+    list-style: none; 
+    align-items: center;  
+    padding: 0; 
+}
+ul li{
+    margin-right: 30px;    
+}
+ul li a{
+    color: rgb(4, 61, 62);
+    text-decoration: none;
+    font: bold;
+}
+    
+img{
+    margin: 0;
+    padding: 0;
+    width: 400px;
+ }
+h1{
+font-size: 30px;
+}
+h2 a{
+    color: rgb(4, 61, 62);
+    text-decoration: none;
+    font: bold; 
+}
+
+#produto{
+    width: 100px;
+}
+
